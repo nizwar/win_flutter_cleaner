@@ -1,0 +1,7 @@
+Flutter cleaner/bin
+Flutter cleaner/obj
+*.user
+*.suo
+_ReSharper.*
+*.sln.cache
+*.pfx
